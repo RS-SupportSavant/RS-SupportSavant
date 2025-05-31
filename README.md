@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I'm Rhea!
 
-<!--
-**RS-SupportSavant/RS-SupportSavant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **aspiring Technical Support Engineer** with over **5 years of Tier 2 experience**, passionate about solving technical problems and supporting users with clarity and care.
 
-Here are some ideas to get you started:
+I'm currently expanding my skills in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐧 **Linux system administration**
+- ☁️ **Cloud technologies (Azure & AWS)**
+- 🔐 **Cybersecurity basics**
+- 🧠 **Networking & troubleshooting**
+- 🧰 **Tools like Wireshark, SQL, and ticketing systems**
+
+---
+
+### 🚀 What I'm Working On
+- Studying for the **Microsoft IT Support Specialist Certification**
+- Learning Git/GitHub and documenting my tech journey
+- Building a mini lab environment to test Linux and networking tools
+- Exploring Python for scripting basic support tasks
+
+---
+
+### 🌍 Goals
+- Transition into a full Technical Support Engineer or Systems Support role (remote or hybrid)
+- Get hands-on experience with cloud platforms and security tools
+- Constantly improve my problem-solving skills and technical knowledge
+
+---
+
+### 📫 Let's Connect!
+- [LinkedIn](#) (https://www.linkedin.com/in/rheasimmons/)*
+- Email:hello@rheasimmons.com
+- Location: Open to remote roles worldwide 🌍
+
+---
+
+Thanks for stopping by!
