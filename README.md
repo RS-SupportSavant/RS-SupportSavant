@@ -13,7 +13,7 @@ I'm currently expanding my skills in:
 ---
 
 ### 🚀 What I'm Working On
-- Studying for the **Microsoft IT Support Specialist Certification**
+- Studying for the **Google IT Support Specialist Certification**
 - Learning Git/GitHub and documenting my tech journey
 - Building a mini lab environment to test Linux and networking tools
 - Exploring Python for scripting basic support tasks
